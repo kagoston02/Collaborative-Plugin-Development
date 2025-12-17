@@ -3,7 +3,7 @@
 ---
 
 ## Concept:
-- To have a built in version control plugin for music artists inside the DAW, built on the same logic as git
+- To have a built in version control plugin for music artists inside the DAW, built on the same logic as git (primarily for FL Studio possible generalization implement in the future)
 
 ## Steps:
 0. Testing the limitations of git:
